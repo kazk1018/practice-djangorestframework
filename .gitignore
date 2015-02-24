@@ -1,0 +1,8 @@
+# idea
+.idea/
+
+# python
+*.pyc
+
+# db
+*.sqlite3
